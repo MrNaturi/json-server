@@ -59,5 +59,6 @@
     "milliparsec": "^4.0.0",
     "sirv": "^2.0.4",
     "sort-on": "^6.1.0"
+    "json-server": "^0.17.0"
   }
 }
